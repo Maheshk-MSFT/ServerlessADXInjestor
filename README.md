@@ -10,3 +10,5 @@ b. You may want to branch the code path based on the incoming blob data/extensio
 c. When you want to rewrite the path of insertion
 d. When you want to ignore the trigger for certain files/formats - etc 
 e. When you want to validate certain things before injesting into ADX. 
+
+screenshots - https://twitter.com/MahesKBlr/status/1477938034964197377
